@@ -20,12 +20,11 @@ This project simulates a real-world **data engineering + analytics workflow**.
 
 ## 🛠️ Tools & Technologies
 - **Python**
-- **Requests** – API data extraction
-- **Pandas** – Data transformation
-- **CSV** – Data storage
+- **Requests** – Extracting data from social media API
+- **Pandas** – Transforming raw API data into structured DataFrames and exporting CSV
+- **CSV**
 - **SQL** – Post-ETL analysis
 
----
 
 ## 🎯 Business Problem
 Raw social media data is:
